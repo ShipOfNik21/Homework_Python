@@ -17,3 +17,4 @@ for percent in range(101):
         print(percent, 'процента,', end=" ")
     else:
         print(percent, 'процентов,', end=" ")
+
