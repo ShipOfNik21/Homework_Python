@@ -15,3 +15,5 @@ for i in range(3): # цикл для проверки работы кода на
     m = duration % DAY % HOUR // MIN
     s = duration % MIN
     print(f'{d} day(s), {h} hour(s), {m} minute(s), {s} second(s)')
+
+# Вроде всё работает
